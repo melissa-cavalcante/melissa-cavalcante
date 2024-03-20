@@ -1,7 +1,5 @@
 <div>
   <a href="https://github.com/melissa-cavalcante">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=melissa-cavalcante&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MELISSA-CAVALCANTE&layout=compact&langs_count=7&theme=react" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7f3ace&reversal=false&section=header&textBg=false&fontColor=fff&strokeWidth=2&stroke=0"/>
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&duration=3500&pause=1000&color=7F3ACE&center=true&random=false&width=435&lines=Hello%2C+my+name+is+Melissa+;I'm+19+years+old;I+from+Brasil;System+development+technique;Welcome!!"/>
   
