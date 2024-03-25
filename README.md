@@ -18,6 +18,6 @@
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7f3ace&reversal=false&section=footer&textBg=false&fontColor=fff&strokeWidth=2&stroke=0"/>
   
-  ![Snake animation](https://github.com/melissa-cavalcante/melissa-cavalcante/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
