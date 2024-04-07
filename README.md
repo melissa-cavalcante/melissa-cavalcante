@@ -10,7 +10,7 @@
   <br>
   <br>
 </div>
-
+![melissa-cavalcante's Streak](https://github-readme-streak-stats.herokuapp.com/?user=melissa-cavalcante&theme=radical&hide_border=true)
 <div style="display: flex" align="center">
   <img height="180em" width="100%" src="![melissa-cavalcante's Streak](https://github-readme-streak-stats.herokuapp.com/?user=melissa-cavalcante&theme=radical&hide_border=true)"</>
   <br>
