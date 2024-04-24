@@ -24,6 +24,6 @@
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FE428E&reversal=false&section=footer&textBg=false&fontColor=fff&strokeWidth=2&stroke=0"/>
   
-  
+<a>https://www.linkedin.com/in/melissa-cavalcante-6b0879286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a>  
   
 </div>
